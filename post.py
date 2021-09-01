@@ -41,7 +41,7 @@ class Post:
         if os.path.exists(postpath):
             os.remove(postpath)
         with open(postpath, 'w', encoding="utf8") as f:
-            print("#{}#\n".format(self.post_title), file=f)
+            print("# {}\n".format(self.post_title), file=f)
             md = markdownify(self.post_content)
             md = md.replace('\\r', '').replace('\\n', '\n')
             print("{}".format(md), file=f)
