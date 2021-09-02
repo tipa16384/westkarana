@@ -36,6 +36,11 @@ class Post:
         self.post_type = row['post_type']
         self.post_mime_type = row['post_mime_type']
         self.comment_count = row['comment_count']
+        self.post_author_name = None
+
+    def setPostAuthorUser(self, user_dict):
+        if self.post_author and self.post_author in user_dict:
+            self.post_author_name = user_dict[self.post_author].display_name
 
     def save(self):
         postpath = os.path.join(postfolder, str(self.ID) + ".md")
@@ -43,6 +48,10 @@ class Post:
             os.remove(postpath)
         with open(postpath, 'w', encoding="utf8") as f:
             print("# {}\n".format(self.post_title), file=f)
+
+            if self.post_author_name:
+                print("*Posted by {} on {}*\n".format(self.post_author_name, self.post_date), file=f)
+
             md = markdownify(self.post_content)
             md = md.replace('\\r', '').replace('\\n', '\n')
             print("{}".format(md), file=f)
