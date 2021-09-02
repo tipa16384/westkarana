@@ -7,9 +7,10 @@ import os
 from markdownify import markdownify
 
 postfolder = './posts'
+post_key = 'INSERT INTO `wp_posts` VALUES ('
+post_columns = 'ID,post_author,post_date,post_date_gmt,post_content,post_title,post_category,post_excerpt,post_status,comment_status,ping_status,post_password,post_name,to_ping,pinged,post_modified,post_modified_gmt,post_content_filtered,post_parent,guid,menu_order,post_type,post_mime_type,comment_count'.split(',')
 
 class Post:
-
     def __init__(self, row):
         self.ID = row['ID']
         self.post_author = row['post_author']
@@ -37,7 +38,7 @@ class Post:
         self.comment_count = row['comment_count']
 
     def save(self):
-        postpath = os.path.join(postfolder, self.ID + ".md")
+        postpath = os.path.join(postfolder, str(self.ID) + ".md")
         if os.path.exists(postpath):
             os.remove(postpath)
         with open(postpath, 'w', encoding="utf8") as f:
