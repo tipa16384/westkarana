@@ -18,8 +18,8 @@ def processComment(l):
 
 
 def processPost(l):
-    l = l.replace('http://westkarana.com/wp-content', '..')
-    l = l.replace('http://westkarana.com', '..')
+    l = l.replace('http://westkarana.com/wp-content', '../../..')
+    l = l.replace('http://westkarana.com', '../../..')
 
     vals = [x for x in consume(l)]
     post_val_dict = {}

@@ -5,10 +5,13 @@
 
 import os
 from markdownify import markdownify
+import re
 
 postfolder = './posts'
 post_key = 'INSERT INTO `wp_posts` VALUES ('
-post_columns = 'ID,post_author,post_date,post_date_gmt,post_content,post_title,post_category,post_excerpt,post_status,comment_status,ping_status,post_password,post_name,to_ping,pinged,post_modified,post_modified_gmt,post_content_filtered,post_parent,guid,menu_order,post_type,post_mime_type,comment_count'.split(',')
+post_columns = 'ID,post_author,post_date,post_date_gmt,post_content,post_title,post_category,post_excerpt,post_status,comment_status,ping_status,post_password,post_name,to_ping,pinged,post_modified,post_modified_gmt,post_content_filtered,post_parent,guid,menu_order,post_type,post_mime_type,comment_count'.split(
+    ',')
+
 
 class Post:
     def __init__(self, row):
@@ -43,14 +46,19 @@ class Post:
             self.post_author_name = user_dict[self.post_author].display_name
 
     def save(self):
-        postpath = os.path.join(postfolder, str(self.ID) + ".md")
-        if os.path.exists(postpath):
-            os.remove(postpath)
+        postpath = postfolder
+        m = re.match(u'(\d+)-(\d+)-(\d+)', self.post_date)
+        if m:
+            postpath = os.path.join(postpath, m.group(1), m.group(2))
+        os.makedirs(postpath, exist_ok=True)
+        postpath = os.path.join(postpath, str(self.ID) + ".md")
+
         with open(postpath, 'w', encoding="utf8") as f:
             print("# {}\n".format(self.post_title), file=f)
 
             if self.post_author_name:
-                print("*Posted by {} on {}*\n".format(self.post_author_name, self.post_date), file=f)
+                print(
+                    "*Posted by {} on {}*\n".format(self.post_author_name, self.post_date), file=f)
 
             md = markdownify(self.post_content)
             md = md.replace('\\r', '').replace('\\n', '\n')
