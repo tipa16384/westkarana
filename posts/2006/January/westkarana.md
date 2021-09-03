@@ -1,7 +1,7 @@
 Back to: [West Karana](/posts/westkarana.md) > [2006](/posts/2006/westkarana.md)
 # West Karana Archive for January, 2006
 
-* [To Rule the World, Cutely](78.md) <span style="color:red;">*</span>
+* [To Rule the World, Cutely](78.md) <span style="color:red;">comment</span>
 * [NationStates](79.md) <span style="color:red;"></span>
 * [Babylon 5 - I&#039;ve Found Her](54.md) <span style="color:red;"></span>
 * [Slashdot and Intelligent Design](80.md) <span style="color:red;"></span>
@@ -25,7 +25,7 @@ Back to: [West Karana](/posts/westkarana.md) > [2006](/posts/2006/westkarana.md)
 * [EverQuest II](71.md) <span style="color:red;"></span>
 * [Crafting in EQ2](72.md) <span style="color:red;"></span>
 * [Tipa: Karma Whore](73.md) <span style="color:red;"></span>
-* [Nashuya - Shadow Knight](82.md) <span style="color:red;">*</span>
+* [Nashuya - Shadow Knight](82.md) <span style="color:red;">comment</span>
 * [Fanguard pictures](74.md) <span style="color:red;"></span>
 * [Photoshop on Linux](75.md) <span style="color:red;"></span>
 * [Everquest 2 BLISS!](76.md) <span style="color:red;"></span>

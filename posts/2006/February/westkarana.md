@@ -13,7 +13,7 @@ Back to: [West Karana](/posts/westkarana.md) > [2006](/posts/2006/westkarana.md)
 * [AllofMP3.com](88.md) <span style="color:red;"></span>
 * [CE News in progress](89.md) <span style="color:red;"></span>
 * [Unan1mous, Crafting in MMOs.](90.md) <span style="color:red;"></span>
-* [Why Do MMORPGs Hate Pacific Time?](91.md) <span style="color:red;">*</span>
+* [Why Do MMORPGs Hate Pacific Time?](91.md) <span style="color:red;">comment</span>
 * [The Dirty Thirties](92.md) <span style="color:red;"></span>
 * [Queen Sendaii Dead...](93.md) <span style="color:red;"></span>
 * [Living In A Dream](94.md) <span style="color:red;"></span>
@@ -22,4 +22,4 @@ Back to: [West Karana](/posts/westkarana.md) > [2006](/posts/2006/westkarana.md)
 * [Dice](96.md) <span style="color:red;"></span>
 * [Prophecy of Ro](97.md) <span style="color:red;"></span>
 * [I Hate Moving &amp; I Am Not Buck Dharma](98.md) <span style="color:red;"></span>
-* [&quot;The Golden Man&quot;](99.md) <span style="color:red;">*</span>
+* [&quot;The Golden Man&quot;](99.md) <span style="color:red;">comment</span>

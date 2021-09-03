@@ -31,7 +31,7 @@ def create_year_month_day_page(ymtuple, by_year_month):
             ymtuple[1], ymtuple[0]), file=f)
         for post in by_year_month:
             print('* [{}]({}.md) <span style="color:red;">{}</span>'.format(
-                post.post_title, post.ID, '*' if post.comments else ''), file=f)
+                post.post_title, post.ID, 'comment' if post.comments else ''), file=f)
 
 
 def monthsort(m):
