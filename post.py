@@ -11,6 +11,8 @@ postfolder = './posts'
 post_key = 'INSERT INTO `wp_posts` VALUES ('
 post_columns = 'ID,post_author,post_date,post_date_gmt,post_content,post_title,post_category,post_excerpt,post_status,comment_status,ping_status,post_password,post_name,to_ping,pinged,post_modified,post_modified_gmt,post_content_filtered,post_parent,guid,menu_order,post_type,post_mime_type,comment_count'.split(
     ',')
+month_names = ['January', 'February', 'March', 'April', 'May', 'June',
+               'July', 'August', 'September', 'October', 'November', 'December']
 
 
 class Post:
@@ -40,6 +42,10 @@ class Post:
         self.post_mime_type = row['post_mime_type']
         self.comment_count = row['comment_count']
         self.post_author_name = None
+        m = re.match(u'(\d+)-(\d+)-(\d+)', self.post_date)
+        self.post_year = int(m.group(1)) if m else 0
+        self.post_month = month_names[int(m.group(2))-1] if m else 'Octember'
+        self.post_day = int(m.group(3)) if m else 0
 
     def setPostAuthorUser(self, user_dict):
         if self.post_author and self.post_author in user_dict:
@@ -47,9 +53,8 @@ class Post:
 
     def save(self):
         postpath = postfolder
-        m = re.match(u'(\d+)-(\d+)-(\d+)', self.post_date)
-        if m:
-            postpath = os.path.join(postpath, m.group(1), m.group(2))
+
+        postpath = os.path.join(postpath, str(self.post_year), self.post_month)
         os.makedirs(postpath, exist_ok=True)
         postpath = os.path.join(postpath, str(self.ID) + ".md")
 
