@@ -75,6 +75,6 @@ class Post:
             if self.comments:
                 print("## Comments!\n", file=f)
                 for comment in self.comments:
-                    print("---\n", file=f)
                     print("**{}** writes: {}\n".format(comment.comment_author,
-                                                     mangle(markdownify(comment.comment_content))), file=f)
+                                                       mangle(markdownify(comment.comment_content))), file=f)
+                    print("---\n", file=f)
