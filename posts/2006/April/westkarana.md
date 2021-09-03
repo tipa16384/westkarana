@@ -1,19 +1,19 @@
 Back to: [West Karana](/posts/westkarana.md) > [2006](/posts/2006/westkarana.md)
 # West Karana Archive for April, 2006
 
-* [Sand Elves](139.md)
-* [A Pressing Obliviation](140.md)
-* [Nightmares](141.md)
-* [NationStates progress](127.md)
-* [Red Flag Linux, Prince Harry, Sarcasm, etc.](128.md)
-* [Nightmares 2](142.md)
-* [Leyawiin, my old home town](129.md)
-* [Blogmata](130.md)
-* [The Da Vinci Code](131.md)
-* [Van Gogh&#039;s &quot;Wheatfield&quot;](132.md)
-* [A Pretty Neat Trick](133.md)
-* [Academy of Arcane Science](134.md)
-* [Okay, so they DO look ugly](135.md)
-* [The Little Mermaid](136.md)
-* [So, I guess that was news...](137.md)
-* [A good day](138.md)
+* [Sand Elves](139.md) <span style="color:red;">*</span>
+* [A Pressing Obliviation](140.md) <span style="color:red;"></span>
+* [Nightmares](141.md) <span style="color:red;"></span>
+* [NationStates progress](127.md) <span style="color:red;"></span>
+* [Red Flag Linux, Prince Harry, Sarcasm, etc.](128.md) <span style="color:red;"></span>
+* [Nightmares 2](142.md) <span style="color:red;"></span>
+* [Leyawiin, my old home town](129.md) <span style="color:red;"></span>
+* [Blogmata](130.md) <span style="color:red;"></span>
+* [The Da Vinci Code](131.md) <span style="color:red;">*</span>
+* [Van Gogh&#039;s &quot;Wheatfield&quot;](132.md) <span style="color:red;"></span>
+* [A Pretty Neat Trick](133.md) <span style="color:red;"></span>
+* [Academy of Arcane Science](134.md) <span style="color:red;"></span>
+* [Okay, so they DO look ugly](135.md) <span style="color:red;">*</span>
+* [The Little Mermaid](136.md) <span style="color:red;"></span>
+* [So, I guess that was news...](137.md) <span style="color:red;"></span>
+* [A good day](138.md) <span style="color:red;"></span>

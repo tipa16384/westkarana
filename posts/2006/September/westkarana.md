@@ -1,25 +1,25 @@
 Back to: [West Karana](/posts/westkarana.md) > [2006](/posts/2006/westkarana.md)
 # West Karana Archive for September, 2006
 
-* [Itemcentricity](272.md)
-* [Who Wants to be a Superhero?](275.md)
-* [Superachievers and Underachievers](276.md)
-* [Battlestar Galactica Webisodes](278.md)
-* [Stuff I Did at Work Today: Inkscape Edition](282.md)
-* [Timed Tradeskill Writs](283.md)
-* [Character Updates](288.md)
-* [Computers Suck: Another IT Emergency](289.md)
-* [R.I.P. Rio Karma](290.md)
-* [EQ1: Preparing for Serpent's Spine](293.md)
-* [Why I Left Gentoo but Still Love Linux](294.md)
-* [Blackguard Has Left the Building](295.md)
-* [EQ2: Battle of the Twinks](296.md)
-* [City of Heroes: Good vs Evil](297.md)
-* [EQ2: Test Your Soloing Skills](298.md)
-* [EQ2: O RLY?](301.md)
-* [The coffee coffee coffee coffee coffee coffee alliance](302.md)
-* [Alchemist Dar and Dead Writers](304.md)
-* [EQ2: Dreadscale Pauldrons](307.md)
-* [EQ2: Shakespeare on Venekor](308.md)
-* [EQ1: Hatchet, Serpent's Spine, and the Path to 75](312.md)
-* [EQ1: Hatchet the Torturer Dead, Ding! 75](314.md)
+* [Itemcentricity](272.md) <span style="color:red;"></span>
+* [Who Wants to be a Superhero?](275.md) <span style="color:red;"></span>
+* [Superachievers and Underachievers](276.md) <span style="color:red;">*</span>
+* [Battlestar Galactica Webisodes](278.md) <span style="color:red;">*</span>
+* [Stuff I Did at Work Today: Inkscape Edition](282.md) <span style="color:red;">*</span>
+* [Timed Tradeskill Writs](283.md) <span style="color:red;">*</span>
+* [Character Updates](288.md) <span style="color:red;">*</span>
+* [Computers Suck: Another IT Emergency](289.md) <span style="color:red;"></span>
+* [R.I.P. Rio Karma](290.md) <span style="color:red;">*</span>
+* [EQ1: Preparing for Serpent's Spine](293.md) <span style="color:red;"></span>
+* [Why I Left Gentoo but Still Love Linux](294.md) <span style="color:red;"></span>
+* [Blackguard Has Left the Building](295.md) <span style="color:red;">*</span>
+* [EQ2: Battle of the Twinks](296.md) <span style="color:red;"></span>
+* [City of Heroes: Good vs Evil](297.md) <span style="color:red;">*</span>
+* [EQ2: Test Your Soloing Skills](298.md) <span style="color:red;">*</span>
+* [EQ2: O RLY?](301.md) <span style="color:red;">*</span>
+* [The coffee coffee coffee coffee coffee coffee alliance](302.md) <span style="color:red;"></span>
+* [Alchemist Dar and Dead Writers](304.md) <span style="color:red;"></span>
+* [EQ2: Dreadscale Pauldrons](307.md) <span style="color:red;">*</span>
+* [EQ2: Shakespeare on Venekor](308.md) <span style="color:red;">*</span>
+* [EQ1: Hatchet, Serpent's Spine, and the Path to 75](312.md) <span style="color:red;"></span>
+* [EQ1: Hatchet the Torturer Dead, Ding! 75](314.md) <span style="color:red;"></span>

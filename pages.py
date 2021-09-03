@@ -2,6 +2,7 @@ import os
 from post import postfolder, month_names
 from utils import filename
 
+
 def create_year_page(by_year):
     os.makedirs(postfolder, exist_ok=True)
     with open(os.path.join(postfolder, filename), 'w', encoding="utf8", newline='') as f:
@@ -29,7 +30,8 @@ def create_year_month_day_page(ymtuple, by_year_month):
         print('# West Karana Archive for {}, {}\n'.format(
             ymtuple[1], ymtuple[0]), file=f)
         for post in by_year_month:
-            print('* [{}]({}.md)'.format(post.post_title, post.ID), file=f)
+            print('* [{}]({}.md) <span style="color:red;">{}</span>'.format(
+                post.post_title, post.ID, '*' if post.comments else ''), file=f)
 
 
 def monthsort(m):

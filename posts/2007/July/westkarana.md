@@ -1,28 +1,28 @@
 Back to: [West Karana](/posts/westkarana.md) > [2007](/posts/2007/westkarana.md)
 # West Karana Archive for July, 2007
 
-* [In Memoriam: Brief AFK](802.md)
-* [Thank you! Now it's time to rethink my life.](803.md)
-* [Dogs and Frisbees: Why your MMO sucks.](805.md)
-* [Games that at least try: EVE Online](809.md)
-* [Paris Hilton reads Harry Potter to Nicole Richie's unborn baby with her iPhone](810.md)
-* [EVE: I guess I shouldn't have named it after my cat...](812.md)
-* [Hero's Journey](814.md)
-* [Spoiler Alert](815.md)
-* [38 Studios to unveil their MMO at San Diego Comic Con](816.md)
-* [EVE: Okay, so you've been podded... NOW what do you do?](817.md)
-* [EvE: Transport through my system, play by MY rules](820.md)
-* [Crisis of the Infinite Earths vs Earth-616](821.md)
-* [Bioware Austin uses Perpetual's MMO Middleware](822.md)
-* [Checkers Solved!](823.md)
-* [Star Trek Online Devlog](824.md)
-* [Expelliarmus!](830.md)
-* [EvE: Book cover edition](833.md)
-* [I think I am going to have to delete Vista...](834.md)
-* [Secret of Isis](837.md)
-* [Meme Wars](838.md)
-* [The End of Eve](839.md)
-* [Repent, Harlequin! This ain't Harry Potter...](841.md)
-* [Book reviews...](842.md)
-* [Test...](843.md)
-* [The Oyster Boys vs the Space Truckers](844.md)
+* [In Memoriam: Brief AFK](802.md) <span style="color:red;">*</span>
+* [Thank you! Now it's time to rethink my life.](803.md) <span style="color:red;">*</span>
+* [Dogs and Frisbees: Why your MMO sucks.](805.md) <span style="color:red;">*</span>
+* [Games that at least try: EVE Online](809.md) <span style="color:red;">*</span>
+* [Paris Hilton reads Harry Potter to Nicole Richie's unborn baby with her iPhone](810.md) <span style="color:red;">*</span>
+* [EVE: I guess I shouldn't have named it after my cat...](812.md) <span style="color:red;">*</span>
+* [Hero's Journey](814.md) <span style="color:red;"></span>
+* [Spoiler Alert](815.md) <span style="color:red;">*</span>
+* [38 Studios to unveil their MMO at San Diego Comic Con](816.md) <span style="color:red;">*</span>
+* [EVE: Okay, so you've been podded... NOW what do you do?](817.md) <span style="color:red;">*</span>
+* [EvE: Transport through my system, play by MY rules](820.md) <span style="color:red;">*</span>
+* [Crisis of the Infinite Earths vs Earth-616](821.md) <span style="color:red;"></span>
+* [Bioware Austin uses Perpetual's MMO Middleware](822.md) <span style="color:red;">*</span>
+* [Checkers Solved!](823.md) <span style="color:red;">*</span>
+* [Star Trek Online Devlog](824.md) <span style="color:red;"></span>
+* [Expelliarmus!](830.md) <span style="color:red;">*</span>
+* [EvE: Book cover edition](833.md) <span style="color:red;">*</span>
+* [I think I am going to have to delete Vista...](834.md) <span style="color:red;">*</span>
+* [Secret of Isis](837.md) <span style="color:red;"></span>
+* [Meme Wars](838.md) <span style="color:red;">*</span>
+* [The End of Eve](839.md) <span style="color:red;">*</span>
+* [Repent, Harlequin! This ain't Harry Potter...](841.md) <span style="color:red;">*</span>
+* [Book reviews...](842.md) <span style="color:red;"></span>
+* [Test...](843.md) <span style="color:red;">*</span>
+* [The Oyster Boys vs the Space Truckers](844.md) <span style="color:red;">*</span>

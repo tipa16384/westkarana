@@ -1,57 +1,57 @@
 Back to: [West Karana](/posts/westkarana.md) > [2009](/posts/2009/westkarana.md)
 # West Karana Archive for May, 2009
 
-* [Adventures in Monopoly: Where's the Daily Blogroll?](3409.md)
-* [My favorite spam ever!](3410.md)
-* [It's official, the new EverQuest server is chosen, plus EQ3 rumors?](3412.md)
-* [Daily Blogroll 5/4 -- Dragon Claw Style edition](3415.md)
-* [Star Trek Online -- Tactical Ops](3418.md)
-* [Wizard 101: Scandal strikes Wizard City](3421.md)
-* [Wizard 101: The Builder Turtles find their names!](3427.md)
-* [Wizard 101: Housing goes LIVE Wednesday!](3443.md)
-* [EQ2: Cooking with C'Varre](3432.md)
-* [Daily Blogroll 5/5 -- Five by Five edition](3437.md)
-* [EQ: Why the new 51/50 server might be great](3439.md)
-* [Adventures in Monopoly: House Rules](3446.md)
-* [Daily Blogroll 5/6 -- Tempests and Teapots edition](3450.md)
-* [Wizard 101: Housing slump? What housing slump?](3454.md)
-* [A word to bloggers about reviewing MMOs I play.](3462.md)
-* [No daily blogroll, sorry :(](3465.md)
-* [Wizard 101: House so big you LOSE stuff? Fix on its way!](3466.md)
-* [Daily Blogroll 5/8 -- Darkfail edition](3468.md)
-* [Adventures in Monopoly: Bear reviews Chess](3471.md)
-* [Wizard 101: And now for my next trick...](3474.md)
-* [Daily Blogroll 5/11 -- Reboot edition](3480.md)
-* [Free Realms: First Impressions](3483.md)
-* [Daily Blogroll 5/12 -- Postponed](3487.md)
-* [Daily Blogroll 5/13 -- Going Rogue edition](3489.md)
-* [Daily Blogroll 5/14 -- Going Coconuts edition](3492.md)
-* [Wizard 101: Relax](3495.md)
-* [Wizard 101: Arena Season 1 and Automagic](3500.md)
-* [PS3: Limited edition free "Home" Chamber apartment](3511.md)
-* [Earth Eternal announces *22* player races](3513.md)
-* [Daily Blogroll 5/15 -- Endelig Fredag edition](3518.md)
-* [Dungeon Party goes live today!](3521.md)
-* [EVE Online: A noob in New Eden](3524.md)
-* [Wizard 101: Castles and Lands Commercial](3529.md)
-* [Daily Blogroll 5/19 -- Black Lung edition](3534.md)
-* [EQ2: Elven Child Support](3538.md)
-* [Daily Blogroll 5/20 -- Hump Day edition!](3541.md)
-* [Wizard101: New world Grizzleheim announced! And a contest!](3544.md)
-* [EVE Online: Pirates of the Constellation](3547.md)
-* [Atlus' NeoSteam: First Impressions](3550.md)
-* [Puyo Puyo 7 coming this year to a console near you!](3554.md)
-* [Daily Blogroll 5/22 -- On Holiday edition](3557.md)
-* [Steampunk MMO Gatheryn enters closed beta](3560.md)
-* [Daily Blogroll 5/26 -- Back to the Grind edition](3564.md)
-* [Legends of Zork: We have a Clan!](3567.md)
-* [Google News: For all your WoW Gold Spam needs](3570.md)
-* [Wizard 101: What I'd like to see in Grizzleheim](3573.md)
-* [Daily Blogroll 5/27 -- Bump in the Night edition](3578.md)
-* [Will EverQuest III be Free Realms II?](3581.md)
-* [Daily Blogroll 5/28 -- No funny name episode](3584.md)
-* [The Matrix Online: Unplugged](3587.md)
-* [EVE Online: Preying on the Weak](3590.md)
-* [Daily Blogroll 5/29 -- Reasons to be Cheerful, Pt III](3593.md)
-* [Adventures in Monopoly: Closed Beta Confidential](3596.md)
-* [Adventures in Computer Science: Monopoly board computer](3599.md)
+* [Adventures in Monopoly: Where's the Daily Blogroll?](3409.md) <span style="color:red;">*</span>
+* [My favorite spam ever!](3410.md) <span style="color:red;">*</span>
+* [It's official, the new EverQuest server is chosen, plus EQ3 rumors?](3412.md) <span style="color:red;">*</span>
+* [Daily Blogroll 5/4 -- Dragon Claw Style edition](3415.md) <span style="color:red;">*</span>
+* [Star Trek Online -- Tactical Ops](3418.md) <span style="color:red;">*</span>
+* [Wizard 101: Scandal strikes Wizard City](3421.md) <span style="color:red;"></span>
+* [Wizard 101: The Builder Turtles find their names!](3427.md) <span style="color:red;">*</span>
+* [Wizard 101: Housing goes LIVE Wednesday!](3443.md) <span style="color:red;">*</span>
+* [EQ2: Cooking with C'Varre](3432.md) <span style="color:red;">*</span>
+* [Daily Blogroll 5/5 -- Five by Five edition](3437.md) <span style="color:red;">*</span>
+* [EQ: Why the new 51/50 server might be great](3439.md) <span style="color:red;">*</span>
+* [Adventures in Monopoly: House Rules](3446.md) <span style="color:red;">*</span>
+* [Daily Blogroll 5/6 -- Tempests and Teapots edition](3450.md) <span style="color:red;">*</span>
+* [Wizard 101: Housing slump? What housing slump?](3454.md) <span style="color:red;">*</span>
+* [A word to bloggers about reviewing MMOs I play.](3462.md) <span style="color:red;">*</span>
+* [No daily blogroll, sorry :(](3465.md) <span style="color:red;"></span>
+* [Wizard 101: House so big you LOSE stuff? Fix on its way!](3466.md) <span style="color:red;">*</span>
+* [Daily Blogroll 5/8 -- Darkfail edition](3468.md) <span style="color:red;">*</span>
+* [Adventures in Monopoly: Bear reviews Chess](3471.md) <span style="color:red;">*</span>
+* [Wizard 101: And now for my next trick...](3474.md) <span style="color:red;">*</span>
+* [Daily Blogroll 5/11 -- Reboot edition](3480.md) <span style="color:red;">*</span>
+* [Free Realms: First Impressions](3483.md) <span style="color:red;">*</span>
+* [Daily Blogroll 5/12 -- Postponed](3487.md) <span style="color:red;">*</span>
+* [Daily Blogroll 5/13 -- Going Rogue edition](3489.md) <span style="color:red;">*</span>
+* [Daily Blogroll 5/14 -- Going Coconuts edition](3492.md) <span style="color:red;">*</span>
+* [Wizard 101: Relax](3495.md) <span style="color:red;">*</span>
+* [Wizard 101: Arena Season 1 and Automagic](3500.md) <span style="color:red;"></span>
+* [PS3: Limited edition free "Home" Chamber apartment](3511.md) <span style="color:red;">*</span>
+* [Earth Eternal announces *22* player races](3513.md) <span style="color:red;">*</span>
+* [Daily Blogroll 5/15 -- Endelig Fredag edition](3518.md) <span style="color:red;">*</span>
+* [Dungeon Party goes live today!](3521.md) <span style="color:red;">*</span>
+* [EVE Online: A noob in New Eden](3524.md) <span style="color:red;">*</span>
+* [Wizard 101: Castles and Lands Commercial](3529.md) <span style="color:red;"></span>
+* [Daily Blogroll 5/19 -- Black Lung edition](3534.md) <span style="color:red;">*</span>
+* [EQ2: Elven Child Support](3538.md) <span style="color:red;">*</span>
+* [Daily Blogroll 5/20 -- Hump Day edition!](3541.md) <span style="color:red;">*</span>
+* [Wizard101: New world Grizzleheim announced! And a contest!](3544.md) <span style="color:red;">*</span>
+* [EVE Online: Pirates of the Constellation](3547.md) <span style="color:red;">*</span>
+* [Atlus' NeoSteam: First Impressions](3550.md) <span style="color:red;">*</span>
+* [Puyo Puyo 7 coming this year to a console near you!](3554.md) <span style="color:red;"></span>
+* [Daily Blogroll 5/22 -- On Holiday edition](3557.md) <span style="color:red;">*</span>
+* [Steampunk MMO Gatheryn enters closed beta](3560.md) <span style="color:red;">*</span>
+* [Daily Blogroll 5/26 -- Back to the Grind edition](3564.md) <span style="color:red;">*</span>
+* [Legends of Zork: We have a Clan!](3567.md) <span style="color:red;">*</span>
+* [Google News: For all your WoW Gold Spam needs](3570.md) <span style="color:red;"></span>
+* [Wizard 101: What I'd like to see in Grizzleheim](3573.md) <span style="color:red;">*</span>
+* [Daily Blogroll 5/27 -- Bump in the Night edition](3578.md) <span style="color:red;">*</span>
+* [Will EverQuest III be Free Realms II?](3581.md) <span style="color:red;">*</span>
+* [Daily Blogroll 5/28 -- No funny name episode](3584.md) <span style="color:red;">*</span>
+* [The Matrix Online: Unplugged](3587.md) <span style="color:red;">*</span>
+* [EVE Online: Preying on the Weak](3590.md) <span style="color:red;">*</span>
+* [Daily Blogroll 5/29 -- Reasons to be Cheerful, Pt III](3593.md) <span style="color:red;">*</span>
+* [Adventures in Monopoly: Closed Beta Confidential](3596.md) <span style="color:red;"></span>
+* [Adventures in Computer Science: Monopoly board computer](3599.md) <span style="color:red;">*</span>

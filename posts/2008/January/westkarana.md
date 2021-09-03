@@ -1,49 +1,49 @@
 Back to: [West Karana](/posts/westkarana.md) > [2008](/posts/2008/westkarana.md)
 # West Karana Archive for January, 2008
 
-* [Tobold: It's called POLITICS](1213.md)
-* [Great Expectations: 2008](1214.md)
-* [EQ2: There is celebrating in New Tunaria tonight.](1216.md)
-* [Score one for me.](1221.md)
-* [Demons of Erayiniel: A Plaza Story](1224.md)
-* [EQ2: Tier 2 done. Well, half done. And some other stuff.](1226.md)
-* [People I don't like much anymore.](1231.md)
-* [Digital Media: Amazon, Sony and CDBaby](1232.md)
-* [EQ2, Rock Band, Goong, Xbox, PS3, PotBS, and stuff.](1233.md)
-* [EQ2: Not bad for an off night.](1235.md)
-* [Mythos Beta Invites](1238.md)
-* [Stargate Worlds. Huh?](1240.md)
-* [Finally DRM-free: John Cage's most famous opus, 4'33"](1241.md)
-* [SF MMOs we'd like to see...](1242.md)
-* [EQ2: The Court of Korocust](1247.md)
-* [Rock Band: Drums R Hard](1250.md)
-* [Monster's Den @ Kongregate](1253.md)
-* [EQ2: Leviathon](1255.md)
-* [EQ2: British Edition](1256.md)
-* [Rock Band destroyed my ability to listen to rock.](1257.md)
-* [CoV: The Rebirth of Madame Scurry](1259.md)
-* [NWN2: I'm in my world, now.](1261.md)
-* [Read the prologue to Iain M. Banks' new book, "Matter".](1262.md)
-* [STO: Where I prove I know nothing of MMO design.](1263.md)
-* [EQ2: Looking for Veeshan.](1266.md)
-* [Rock Band: Fixing the old 5 String](1272.md)
-* [MMO: Science Fiction MMO Outline #1 -- "Book of Days"](1273.md)
-* [EQ2: Dera loves Jackson Pollock SO MUCH, she wears him.](1275.md)
-* [MMO: Five second quiz](1277.md)
-* [Rock Band: Can you rock harder than a grandmother?](1278.md)
-* [Vanguard: The Newbie Fields](1280.md)
-* [Death and Command Lines](1282.md)
-* [EQ2 (et al): Random Bits](1284.md)
-* [Rock Band: Frickin Mofos.](1285.md)
-* [EQ2: Test Updates](1286.md)
-* [Rock Band: Real PvP vs Carebear PvP](1287.md)
-* [Weekend Gaming: Of Veeshan's Peak, Twins, and Things that Go Bump in the Night](1289.md)
-* [Roleplaying in the World of Warcraft](1290.md)
-* [RP, Grind and WTFPWN -- the MMO triangle](1295.md)
-* [Short updates: Rock Band, Vanguard and Pirates of the Burning Sea](1296.md)
-* [Why this site was dead today](1297.md)
-* [A Glance at Pirates of the Burning Sea](1299.md)
-* [Amazon will help you violate copyrights... for a price.](1302.md)
-* [EQ2: Leveling the necromancer in Kylong Plains](1305.md)
-* [PotBS: Flying Labs responds to lag concerns](1306.md)
-* [TV: Lost season 4 tonight, Jericho season 2 Feb. 12](1307.md)
+* [Tobold: It's called POLITICS](1213.md) <span style="color:red;">*</span>
+* [Great Expectations: 2008](1214.md) <span style="color:red;">*</span>
+* [EQ2: There is celebrating in New Tunaria tonight.](1216.md) <span style="color:red;">*</span>
+* [Score one for me.](1221.md) <span style="color:red;">*</span>
+* [Demons of Erayiniel: A Plaza Story](1224.md) <span style="color:red;">*</span>
+* [EQ2: Tier 2 done. Well, half done. And some other stuff.](1226.md) <span style="color:red;"></span>
+* [People I don't like much anymore.](1231.md) <span style="color:red;">*</span>
+* [Digital Media: Amazon, Sony and CDBaby](1232.md) <span style="color:red;">*</span>
+* [EQ2, Rock Band, Goong, Xbox, PS3, PotBS, and stuff.](1233.md) <span style="color:red;">*</span>
+* [EQ2: Not bad for an off night.](1235.md) <span style="color:red;">*</span>
+* [Mythos Beta Invites](1238.md) <span style="color:red;">*</span>
+* [Stargate Worlds. Huh?](1240.md) <span style="color:red;">*</span>
+* [Finally DRM-free: John Cage's most famous opus, 4'33"](1241.md) <span style="color:red;">*</span>
+* [SF MMOs we'd like to see...](1242.md) <span style="color:red;">*</span>
+* [EQ2: The Court of Korocust](1247.md) <span style="color:red;">*</span>
+* [Rock Band: Drums R Hard](1250.md) <span style="color:red;">*</span>
+* [Monster's Den @ Kongregate](1253.md) <span style="color:red;"></span>
+* [EQ2: Leviathon](1255.md) <span style="color:red;">*</span>
+* [EQ2: British Edition](1256.md) <span style="color:red;">*</span>
+* [Rock Band destroyed my ability to listen to rock.](1257.md) <span style="color:red;">*</span>
+* [CoV: The Rebirth of Madame Scurry](1259.md) <span style="color:red;">*</span>
+* [NWN2: I'm in my world, now.](1261.md) <span style="color:red;">*</span>
+* [Read the prologue to Iain M. Banks' new book, "Matter".](1262.md) <span style="color:red;">*</span>
+* [STO: Where I prove I know nothing of MMO design.](1263.md) <span style="color:red;">*</span>
+* [EQ2: Looking for Veeshan.](1266.md) <span style="color:red;">*</span>
+* [Rock Band: Fixing the old 5 String](1272.md) <span style="color:red;">*</span>
+* [MMO: Science Fiction MMO Outline #1 -- "Book of Days"](1273.md) <span style="color:red;">*</span>
+* [EQ2: Dera loves Jackson Pollock SO MUCH, she wears him.](1275.md) <span style="color:red;">*</span>
+* [MMO: Five second quiz](1277.md) <span style="color:red;">*</span>
+* [Rock Band: Can you rock harder than a grandmother?](1278.md) <span style="color:red;">*</span>
+* [Vanguard: The Newbie Fields](1280.md) <span style="color:red;">*</span>
+* [Death and Command Lines](1282.md) <span style="color:red;">*</span>
+* [EQ2 (et al): Random Bits](1284.md) <span style="color:red;">*</span>
+* [Rock Band: Frickin Mofos.](1285.md) <span style="color:red;">*</span>
+* [EQ2: Test Updates](1286.md) <span style="color:red;">*</span>
+* [Rock Band: Real PvP vs Carebear PvP](1287.md) <span style="color:red;">*</span>
+* [Weekend Gaming: Of Veeshan's Peak, Twins, and Things that Go Bump in the Night](1289.md) <span style="color:red;">*</span>
+* [Roleplaying in the World of Warcraft](1290.md) <span style="color:red;">*</span>
+* [RP, Grind and WTFPWN -- the MMO triangle](1295.md) <span style="color:red;">*</span>
+* [Short updates: Rock Band, Vanguard and Pirates of the Burning Sea](1296.md) <span style="color:red;"></span>
+* [Why this site was dead today](1297.md) <span style="color:red;">*</span>
+* [A Glance at Pirates of the Burning Sea](1299.md) <span style="color:red;">*</span>
+* [Amazon will help you violate copyrights... for a price.](1302.md) <span style="color:red;">*</span>
+* [EQ2: Leveling the necromancer in Kylong Plains](1305.md) <span style="color:red;">*</span>
+* [PotBS: Flying Labs responds to lag concerns](1306.md) <span style="color:red;">*</span>
+* [TV: Lost season 4 tonight, Jericho season 2 Feb. 12](1307.md) <span style="color:red;">*</span>

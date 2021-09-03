@@ -1,49 +1,49 @@
 Back to: [West Karana](/posts/westkarana.md) > [2008](/posts/2008/westkarana.md)
 # West Karana Archive for February, 2008
 
-* [PotBS: The Legends of Guadaloupe](1311.md)
-* [PotBS: Real Free Traders Sail Sloops](1316.md)
-* [Speak, friend, and flush](1317.md)
-* [Warhammer: A note to wolves about sheep herding.](1318.md)
-* [EQ2: Nice while it lasted -- Clan of Shadows declines the haffer](1320.md)
-* [EQ2 (et al): Top 10 questions answered](1321.md)
-* [EQ2: LU42 Mannequins](1330.md)
-* [EQ2: Epic Bits](1334.md)
-* [How to get kids accustomed to the family's new file server](1339.md)
-* [EQ2: Guild search, AA mirror, more epic progress](1341.md)
-* [Stuff to watch this week: Lost, Jericho, Idol](1344.md)
-* [EQ: UBER YOU! The Best of EverQuest](1346.md)
-* [EQ: Has Anybody Seen My Corpse? The Best of EverQuest](1347.md)
-* [EQ: Need More Sinzan! The Best of EverQuest](1348.md)
-* [EQ2: Staying on Befallen!](1351.md)
-* [Jean Shepherd's WOR radio hours](1352.md)
-* [Rock Band -- time to move on, but am I ready?](1353.md)
-* [Oh dear... our Xbox is blogging about us...](1354.md)
-* [Jericho, Lost, American Idol and my first DoG raid on EQ2](1355.md)
-* [Watch the Skies: Free books from Tor](1359.md)
-* [WoW: I bet you can't win 200K in Warhammer...](1360.md)
-* [AoC: Conan Speaks](1357.md)
-* [Finished: Perdido Street Station by China Miéville](1363.md)
-* [Sorry, Age of Conan. Hello Kitty Online is going to kick your butt.](1365.md)
-* [GAX Online](1367.md)
-* [EQ2: Epic Harvesting! Woohoo!](1369.md)
-* [Why Warhammer hype works so well.](1372.md)
-* [Jumper, TV, books, music and stuff this week.](1373.md)
-* [Scurvsnicker's Weekly Recap - 2/18/2008](1374.md)
-* [Audiosurf: When we say play your music, we mean it.](1376.md)
-* [Your Wednesday Science Update](1378.md)
-* [Why Champions Online may be the most innovative MMO of 2009.](1380.md)
-* [Sympathy for the Daniel](1384.md)
-* [PotBS: Conversations and Free Trade agreements](1323.md)
-* [Gamers just want to have "Phun"](1386.md)
-* [EQ2: Tales of a Master Jeweler](1388.md)
-* [Witty Ranter #3](1391.md)
-* [HKO: Want to test Hello Kitty? Make a video!](1392.md)
-* [Brief look: Marvel Ultimate Alliance](1393.md)
-* [EQ1: What waking the Sleeper meant to me...](1395.md)
-* [EQ2: A Bard's Dream, an Epic Done](1397.md)
-* [Why I Blog](1400.md)
-* [EQ2: Quick Shots](1402.md)
-* [NP: Someone's mad at me](1404.md)
-* [Blogroll](1405.md)
-* [Rock Band Dream Setlist](1406.md)
+* [PotBS: The Legends of Guadaloupe](1311.md) <span style="color:red;">*</span>
+* [PotBS: Real Free Traders Sail Sloops](1316.md) <span style="color:red;">*</span>
+* [Speak, friend, and flush](1317.md) <span style="color:red;">*</span>
+* [Warhammer: A note to wolves about sheep herding.](1318.md) <span style="color:red;">*</span>
+* [EQ2: Nice while it lasted -- Clan of Shadows declines the haffer](1320.md) <span style="color:red;">*</span>
+* [EQ2 (et al): Top 10 questions answered](1321.md) <span style="color:red;">*</span>
+* [EQ2: LU42 Mannequins](1330.md) <span style="color:red;">*</span>
+* [EQ2: Epic Bits](1334.md) <span style="color:red;">*</span>
+* [How to get kids accustomed to the family's new file server](1339.md) <span style="color:red;">*</span>
+* [EQ2: Guild search, AA mirror, more epic progress](1341.md) <span style="color:red;">*</span>
+* [Stuff to watch this week: Lost, Jericho, Idol](1344.md) <span style="color:red;">*</span>
+* [EQ: UBER YOU! The Best of EverQuest](1346.md) <span style="color:red;"></span>
+* [EQ: Has Anybody Seen My Corpse? The Best of EverQuest](1347.md) <span style="color:red;">*</span>
+* [EQ: Need More Sinzan! The Best of EverQuest](1348.md) <span style="color:red;">*</span>
+* [EQ2: Staying on Befallen!](1351.md) <span style="color:red;">*</span>
+* [Jean Shepherd's WOR radio hours](1352.md) <span style="color:red;">*</span>
+* [Rock Band -- time to move on, but am I ready?](1353.md) <span style="color:red;"></span>
+* [Oh dear... our Xbox is blogging about us...](1354.md) <span style="color:red;"></span>
+* [Jericho, Lost, American Idol and my first DoG raid on EQ2](1355.md) <span style="color:red;">*</span>
+* [Watch the Skies: Free books from Tor](1359.md) <span style="color:red;">*</span>
+* [WoW: I bet you can't win 200K in Warhammer...](1360.md) <span style="color:red;">*</span>
+* [AoC: Conan Speaks](1357.md) <span style="color:red;"></span>
+* [Finished: Perdido Street Station by China Miéville](1363.md) <span style="color:red;">*</span>
+* [Sorry, Age of Conan. Hello Kitty Online is going to kick your butt.](1365.md) <span style="color:red;">*</span>
+* [GAX Online](1367.md) <span style="color:red;">*</span>
+* [EQ2: Epic Harvesting! Woohoo!](1369.md) <span style="color:red;">*</span>
+* [Why Warhammer hype works so well.](1372.md) <span style="color:red;">*</span>
+* [Jumper, TV, books, music and stuff this week.](1373.md) <span style="color:red;">*</span>
+* [Scurvsnicker's Weekly Recap - 2/18/2008](1374.md) <span style="color:red;">*</span>
+* [Audiosurf: When we say play your music, we mean it.](1376.md) <span style="color:red;">*</span>
+* [Your Wednesday Science Update](1378.md) <span style="color:red;">*</span>
+* [Why Champions Online may be the most innovative MMO of 2009.](1380.md) <span style="color:red;">*</span>
+* [Sympathy for the Daniel](1384.md) <span style="color:red;">*</span>
+* [PotBS: Conversations and Free Trade agreements](1323.md) <span style="color:red;">*</span>
+* [Gamers just want to have "Phun"](1386.md) <span style="color:red;">*</span>
+* [EQ2: Tales of a Master Jeweler](1388.md) <span style="color:red;"></span>
+* [Witty Ranter #3](1391.md) <span style="color:red;"></span>
+* [HKO: Want to test Hello Kitty? Make a video!](1392.md) <span style="color:red;">*</span>
+* [Brief look: Marvel Ultimate Alliance](1393.md) <span style="color:red;">*</span>
+* [EQ1: What waking the Sleeper meant to me...](1395.md) <span style="color:red;"></span>
+* [EQ2: A Bard's Dream, an Epic Done](1397.md) <span style="color:red;">*</span>
+* [Why I Blog](1400.md) <span style="color:red;">*</span>
+* [EQ2: Quick Shots](1402.md) <span style="color:red;">*</span>
+* [NP: Someone's mad at me](1404.md) <span style="color:red;">*</span>
+* [Blogroll](1405.md) <span style="color:red;">*</span>
+* [Rock Band Dream Setlist](1406.md) <span style="color:red;">*</span>

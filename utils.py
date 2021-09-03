@@ -1,5 +1,6 @@
 filename = 'westkarana.md'
 
+
 def consume(l):
     state = 0
     stuff = None
@@ -34,6 +35,10 @@ def consume(l):
             else:
                 stuff += "\\" + c
             state = 2
-    
+
     if stuff:
         yield stuff
+
+
+def mangle(l):
+    return l.replace('\\r', '').replace('\\n\\n\\n\\n', '\n\n').replace('\\n', '\n')

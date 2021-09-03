@@ -6,7 +6,7 @@
 import os
 from markdownify import markdownify
 import re
-from utils import filename
+from utils import filename, mangle
 
 postfolder = './posts'
 post_key = 'INSERT INTO `wp_posts` VALUES ('
@@ -69,12 +69,12 @@ class Post:
                 print(
                     "*Posted by {} on {}*\n".format(self.post_author_name, self.post_date), file=f)
 
-            md = markdownify(self.post_content)
-            md = md.replace('\\r', '').replace('\\n', '\n')
+            md = mangle(markdownify(self.post_content))
             print("{}".format(md), file=f)
 
             if self.comments:
                 print("## Comments!", file=f)
                 for comment in self.comments:
-                    print ("---", file=f)
-                    print ("**{}** writes: {}".format(comment.comment_author, comment.comment_content), file=f)
+                    print("---", file=f)
+                    print("**{}** writes: {}".format(comment.comment_author,
+                                                     mangle(markdownify(comment.comment_content))), file=f)
