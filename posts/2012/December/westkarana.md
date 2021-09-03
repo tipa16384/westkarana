@@ -1,3 +1,4 @@
+Back to: [West Karana](/posts/westkarana.md) > [2012](/posts/2012/westkarana.md)
 # West Karana Archive for December, 2012
 
 * [Diablo 3: Spode's Inferno](10480.md)

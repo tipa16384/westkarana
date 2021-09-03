@@ -1,3 +1,4 @@
+Back to: [West Karana](/posts/westkarana.md) > [2011](/posts/2011/westkarana.md)
 # West Karana Archive for September, 2011
 
 * [DDO: Holding for Giants](6524.md)

@@ -1,3 +1,4 @@
+Back to: [West Karana](/posts/westkarana.md) > [2010](/posts/2010/westkarana.md)
 # West Karana Archive for February, 2010
 
 * [Star Trek Online: My Crew is Revolting.](4658.md)

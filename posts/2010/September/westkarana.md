@@ -1,3 +1,4 @@
+Back to: [West Karana](/posts/westkarana.md) > [2010](/posts/2010/westkarana.md)
 # West Karana Archive for September, 2010
 
 * [Wizard101: Getting the school ready for Celestia](5563.md)

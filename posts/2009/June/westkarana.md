@@ -1,3 +1,4 @@
+Back to: [West Karana](/posts/westkarana.md) > [2009](/posts/2009/westkarana.md)
 # West Karana Archive for June, 2009
 
 * [Daily Blogroll 6/1 -- Almost Summer edition](3608.md)

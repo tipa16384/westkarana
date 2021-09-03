@@ -1,3 +1,4 @@
+Back to: [West Karana](/posts/westkarana.md) > [2008](/posts/2008/westkarana.md)
 # West Karana Archive for January, 2008
 
 * [Tobold: It's called POLITICS](1213.md)

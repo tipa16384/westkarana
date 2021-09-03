@@ -1,3 +1,4 @@
+Back to: [West Karana](/posts/westkarana.md) > [2010](/posts/2010/westkarana.md)
 # West Karana Archive for October, 2010
 
 * [Star Trek Online, Minecraft, Treasure Abyss](5674.md)

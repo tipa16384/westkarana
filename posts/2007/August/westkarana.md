@@ -1,3 +1,4 @@
+Back to: [West Karana](/posts/westkarana.md) > [2007](/posts/2007/westkarana.md)
 # West Karana Archive for August, 2007
 
 * [You think you hate PvP, but you don't.](845.md)

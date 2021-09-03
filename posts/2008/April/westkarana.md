@@ -1,3 +1,4 @@
+Back to: [West Karana](/posts/westkarana.md) > [2008](/posts/2008/westkarana.md)
 # West Karana Archive for April, 2008
 
 * [Shapeshifter CHAMPION!](1504.md)

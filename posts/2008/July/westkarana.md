@@ -1,3 +1,4 @@
+Back to: [West Karana](/posts/westkarana.md) > [2008](/posts/2008/westkarana.md)
 # West Karana Archive for July, 2008
 
 * [Exploring the Overworld in Mythos](1673.md)

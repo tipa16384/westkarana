@@ -1,3 +1,4 @@
+Back to: [West Karana](/posts/westkarana.md) > [2009](/posts/2009/westkarana.md)
 # West Karana Archive for January, 2009
 
 * [Inhabitants of Spellborn not the brightest bulbs in the Deadspell Storm](2510.md)

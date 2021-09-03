@@ -1,3 +1,4 @@
+Back to: [West Karana](/posts/westkarana.md) > [2008](/posts/2008/westkarana.md)
 # West Karana Archive for November, 2008
 
 * [Wizard 101: October 30 update and the Cave of Sorrows](2203.md)

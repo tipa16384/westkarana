@@ -1,3 +1,4 @@
+Back to: [West Karana](/posts/westkarana.md) > [2008](/posts/2008/westkarana.md)
 # West Karana Archive for December, 2008
 
 * [Adventures in Monopoly #1: Duke Bear](2336.md)

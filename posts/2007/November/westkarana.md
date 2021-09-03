@@ -1,3 +1,4 @@
+Back to: [West Karana](/posts/westkarana.md) > [2007](/posts/2007/westkarana.md)
 # West Karana Archive for November, 2007
 
 * [Portal: Cake and a song](990.md)

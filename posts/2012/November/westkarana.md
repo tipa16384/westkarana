@@ -1,3 +1,4 @@
+Back to: [West Karana](/posts/westkarana.md) > [2012](/posts/2012/westkarana.md)
 # West Karana Archive for November, 2012
 
 * [Game Log: EQ2 Age of Discovery](10409.md)

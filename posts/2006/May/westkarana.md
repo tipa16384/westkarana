@@ -1,3 +1,4 @@
+Back to: [West Karana](/posts/westkarana.md) > [2006](/posts/2006/westkarana.md)
 # West Karana Archive for May, 2006
 
 * [Wordpress](144.md)

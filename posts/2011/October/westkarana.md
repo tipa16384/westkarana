@@ -1,3 +1,4 @@
+Back to: [West Karana](/posts/westkarana.md) > [2011](/posts/2011/westkarana.md)
 # West Karana Archive for October, 2011
 
 * [D&D: Kobold Seasoning](6544.md)

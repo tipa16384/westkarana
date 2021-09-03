@@ -1,3 +1,4 @@
+Back to: [West Karana](/posts/westkarana.md) > [2009](/posts/2009/westkarana.md)
 # West Karana Archive for August, 2009
 
 * [Daily Blogroll 8/4 -- Lifetime edition](3964.md)

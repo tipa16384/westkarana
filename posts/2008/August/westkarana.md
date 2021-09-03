@@ -1,3 +1,4 @@
+Back to: [West Karana](/posts/westkarana.md) > [2008](/posts/2008/westkarana.md)
 # West Karana Archive for August, 2008
 
 * [EQ2: GU47 Dorah stories](1764.md)

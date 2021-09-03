@@ -1,3 +1,4 @@
+Back to: [West Karana](/posts/westkarana.md) > [2013](/posts/2013/westkarana.md)
 # West Karana Archive for January, 2013
 
 * [D&D4e: It's time to slay the dragon. Again.](10555.md)

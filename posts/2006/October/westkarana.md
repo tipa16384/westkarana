@@ -1,3 +1,4 @@
+Back to: [West Karana](/posts/westkarana.md) > [2006](/posts/2006/westkarana.md)
 # West Karana Archive for October, 2006
 
 * [EQ2: Waiting for Godot](323.md)

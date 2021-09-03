@@ -1,3 +1,4 @@
+Back to: [West Karana](/posts/westkarana.md) > [2012](/posts/2012/westkarana.md)
 # West Karana Archive for April, 2012
 
 * [W101: Interview with a Raven](10182.md)

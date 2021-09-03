@@ -1,3 +1,4 @@
+Back to: [West Karana](/posts/westkarana.md) > [2013](/posts/2013/westkarana.md)
 # West Karana Archive for May, 2013
 
 * [EQ2: Scars of the Awakened: Day 1](10849.md)

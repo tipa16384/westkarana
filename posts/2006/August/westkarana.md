@@ -1,3 +1,4 @@
+Back to: [West Karana](/posts/westkarana.md) > [2006](/posts/2006/westkarana.md)
 # West Karana Archive for August, 2006
 
 * [Artifacts of a Misspent Youth](215.md)

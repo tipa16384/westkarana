@@ -1,3 +1,4 @@
+Back to: [West Karana](/posts/westkarana.md) > [2010](/posts/2010/westkarana.md)
 # West Karana Archive for April, 2010
 
 * [XKCD does shell!](4917.md)

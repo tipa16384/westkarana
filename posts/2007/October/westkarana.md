@@ -1,3 +1,4 @@
+Back to: [West Karana](/posts/westkarana.md) > [2007](/posts/2007/westkarana.md)
 # West Karana Archive for October, 2007
 
 * [EQ2: Knights of the Round....](913.md)

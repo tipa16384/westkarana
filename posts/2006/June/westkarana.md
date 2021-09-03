@@ -1,3 +1,4 @@
+Back to: [West Karana](/posts/westkarana.md) > [2006](/posts/2006/westkarana.md)
 # West Karana Archive for June, 2006
 
 * [EQ2 sig](174.md)

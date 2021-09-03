@@ -1,3 +1,4 @@
+Back to: [West Karana](/posts/westkarana.md) > [2006](/posts/2006/westkarana.md)
 # West Karana Archive for July, 2006
 
 * [Prophecy of Ro adventures](181.md)

@@ -1,3 +1,4 @@
+Back to: [West Karana](/posts/westkarana.md) > [2007](/posts/2007/westkarana.md)
 # West Karana Archive for April, 2007
 
 * [LotRO: The Champion](608.md)

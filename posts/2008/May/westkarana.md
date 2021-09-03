@@ -1,3 +1,4 @@
+Back to: [West Karana](/posts/westkarana.md) > [2008](/posts/2008/westkarana.md)
 # West Karana Archive for May, 2008
 
 * [Mythos Active Camera Mode... and an experiment.](1575.md)

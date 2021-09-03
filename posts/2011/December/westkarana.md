@@ -1,3 +1,4 @@
+Back to: [West Karana](/posts/westkarana.md) > [2011](/posts/2011/westkarana.md)
 # West Karana Archive for December, 2011
 
 * [D&D 4E: Footprints in the sand](9869.md)

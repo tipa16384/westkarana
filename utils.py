@@ -1,3 +1,5 @@
+filename = 'westkarana.md'
+
 def consume(l):
     state = 0
     stuff = None

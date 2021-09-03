@@ -1,3 +1,4 @@
+Back to: [West Karana](/posts/westkarana.md) > [2009](/posts/2009/westkarana.md)
 # West Karana Archive for November, 2009
 
 * [EVE Online: It's all fun and games until someone loses a Megathron](4389.md)

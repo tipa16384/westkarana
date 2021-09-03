@@ -1,3 +1,4 @@
+Back to: [West Karana](/posts/westkarana.md) > [2010](/posts/2010/westkarana.md)
 # West Karana Archive for January, 2010
 
 * [EVE Online: Into the Wormhole](4564.md)

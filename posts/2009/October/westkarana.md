@@ -1,3 +1,4 @@
+Back to: [West Karana](/posts/westkarana.md) > [2009](/posts/2009/westkarana.md)
 # West Karana Archive for October, 2009
 
 * [Wizard 101: My greatest failure](4276.md)

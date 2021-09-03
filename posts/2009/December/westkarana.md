@@ -1,3 +1,4 @@
+Back to: [West Karana](/posts/westkarana.md) > [2009](/posts/2009/westkarana.md)
 # West Karana Archive for December, 2009
 
 * [EQ2: The Hero's Dream](4460.md)

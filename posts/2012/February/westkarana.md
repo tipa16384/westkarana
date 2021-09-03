@@ -1,3 +1,4 @@
+Back to: [West Karana](/posts/westkarana.md) > [2012](/posts/2012/westkarana.md)
 # West Karana Archive for February, 2012
 
 * [Star Trek Online: The 2800 Return this weekend](10064.md)

@@ -1,3 +1,4 @@
+Back to: [West Karana](/posts/westkarana.md) > [2011](/posts/2011/westkarana.md)
 # West Karana Archive for January, 2011
 
 * [Daily Blogroll 1/1/11 -- Happy New Year edition](6019.md)

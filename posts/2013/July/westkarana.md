@@ -1,3 +1,4 @@
+Back to: [West Karana](/posts/westkarana.md) > [2013](/posts/2013/westkarana.md)
 # West Karana Archive for July, 2013
 
 * [Neverwinter: Return to Azeroth(ia)](10937.md)

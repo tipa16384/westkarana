@@ -1,3 +1,4 @@
+Back to: [West Karana](/posts/westkarana.md) > [2006](/posts/2006/westkarana.md)
 # West Karana Archive for December, 2006
 
 * [EQ2: Of Interagents, Vindicators and Glowy Things](424.md)

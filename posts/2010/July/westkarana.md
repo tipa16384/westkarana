@@ -1,3 +1,4 @@
+Back to: [West Karana](/posts/westkarana.md) > [2010](/posts/2010/westkarana.md)
 # West Karana Archive for July, 2010
 
 * [Assault on the Inbox: Independence Day Edition](5274.md)

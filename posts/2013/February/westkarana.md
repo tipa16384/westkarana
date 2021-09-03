@@ -1,3 +1,4 @@
+Back to: [West Karana](/posts/westkarana.md) > [2013](/posts/2013/westkarana.md)
 # West Karana Archive for February, 2013
 
 * [Star Trek Online: The Temporal Ambassador](10630.md)

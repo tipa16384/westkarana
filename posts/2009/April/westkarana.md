@@ -1,3 +1,4 @@
+Back to: [West Karana](/posts/westkarana.md) > [2009](/posts/2009/westkarana.md)
 # West Karana Archive for April, 2009
 
 * [EverQuest: How I soloed Veeshan](3012.md)

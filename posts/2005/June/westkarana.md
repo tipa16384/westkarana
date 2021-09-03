@@ -1,3 +1,4 @@
+Back to: [West Karana](/posts/westkarana.md) > [2005](/posts/2005/westkarana.md)
 # West Karana Archive for June, 2005
 
 * [Anguish, the Beginning](2519.md)

@@ -1,3 +1,4 @@
+Back to: [West Karana](/posts/westkarana.md) > [2012](/posts/2012/westkarana.md)
 # West Karana Archive for August, 2012
 
 * [Microsoft Flight in the crosshairs](10248.md)

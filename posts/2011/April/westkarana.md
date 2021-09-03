@@ -1,3 +1,4 @@
+Back to: [West Karana](/posts/westkarana.md) > [2011](/posts/2011/westkarana.md)
 # West Karana Archive for April, 2011
 
 * [Dragon Age 2: Money shot](6317.md)

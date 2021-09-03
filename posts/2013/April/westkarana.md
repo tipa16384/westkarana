@@ -1,3 +1,4 @@
+Back to: [West Karana](/posts/westkarana.md) > [2013](/posts/2013/westkarana.md)
 # West Karana Archive for April, 2013
 
 * [Game Dump: DCUO, EQ2, GW2](10812.md)

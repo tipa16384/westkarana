@@ -1,3 +1,4 @@
+Back to: [West Karana](/posts/westkarana.md) > [2007](/posts/2007/westkarana.md)
 # West Karana Archive for February, 2007
 
 * [EQ2: Barakah](498.md)

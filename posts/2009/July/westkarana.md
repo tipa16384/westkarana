@@ -1,3 +1,4 @@
+Back to: [West Karana](/posts/westkarana.md) > [2009](/posts/2009/westkarana.md)
 # West Karana Archive for July, 2009
 
 * [Daily Blogroll 7/1 - MMO Overload edition](3786.md)

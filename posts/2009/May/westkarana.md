@@ -1,3 +1,4 @@
+Back to: [West Karana](/posts/westkarana.md) > [2009](/posts/2009/westkarana.md)
 # West Karana Archive for May, 2009
 
 * [Adventures in Monopoly: Where's the Daily Blogroll?](3409.md)

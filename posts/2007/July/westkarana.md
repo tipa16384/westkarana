@@ -1,3 +1,4 @@
+Back to: [West Karana](/posts/westkarana.md) > [2007](/posts/2007/westkarana.md)
 # West Karana Archive for July, 2007
 
 * [In Memoriam: Brief AFK](802.md)

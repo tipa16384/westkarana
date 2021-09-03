@@ -1,3 +1,4 @@
+Back to: [West Karana](/posts/westkarana.md) > [2007](/posts/2007/westkarana.md)
 # West Karana Archive for June, 2007
 
 * [EQ2: Ganking Q's on Nagafen](708.md)

@@ -1,3 +1,4 @@
+Back to: [West Karana](/posts/westkarana.md) > [2006](/posts/2006/westkarana.md)
 # West Karana Archive for November, 2006
 
 * [My Son vs the World (of Warcraft)](356.md)

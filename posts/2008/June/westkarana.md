@@ -1,3 +1,4 @@
+Back to: [West Karana](/posts/westkarana.md) > [2008](/posts/2008/westkarana.md)
 # West Karana Archive for June, 2008
 
 * [EverQuest: Down at the farm](1627.md)

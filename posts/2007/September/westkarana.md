@@ -1,3 +1,4 @@
+Back to: [West Karana](/posts/westkarana.md) > [2007](/posts/2007/westkarana.md)
 # West Karana Archive for September, 2007
 
 * [How I wounded grouping and starved communities.](877.md)

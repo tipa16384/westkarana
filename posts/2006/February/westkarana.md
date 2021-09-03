@@ -1,3 +1,4 @@
+Back to: [West Karana](/posts/westkarana.md) > [2006](/posts/2006/westkarana.md)
 # West Karana Archive for February, 2006
 
 * [Quidquid latine dictum sit, altum viditur](100.md)

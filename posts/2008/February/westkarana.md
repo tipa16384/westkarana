@@ -1,3 +1,4 @@
+Back to: [West Karana](/posts/westkarana.md) > [2008](/posts/2008/westkarana.md)
 # West Karana Archive for February, 2008
 
 * [PotBS: The Legends of Guadaloupe](1311.md)

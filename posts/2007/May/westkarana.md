@@ -1,3 +1,4 @@
+Back to: [West Karana](/posts/westkarana.md) > [2007](/posts/2007/westkarana.md)
 # West Karana Archive for May, 2007
 
 * [90% crud, 10% worth dying for](649.md)

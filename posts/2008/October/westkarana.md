@@ -1,3 +1,4 @@
+Back to: [West Karana](/posts/westkarana.md) > [2008](/posts/2008/westkarana.md)
 # West Karana Archive for October, 2008
 
 * [Straight Talk Warhammer: The Witch Hunter](2025.md)

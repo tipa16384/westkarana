@@ -1,3 +1,4 @@
+Back to: [West Karana](/posts/westkarana.md) > [2012](/posts/2012/westkarana.md)
 # West Karana Archive for January, 2012
 
 * [STO: I'd buy that for $138!](9932.md)

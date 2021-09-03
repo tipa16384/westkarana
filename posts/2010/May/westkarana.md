@@ -1,3 +1,4 @@
+Back to: [West Karana](/posts/westkarana.md) > [2010](/posts/2010/westkarana.md)
 # West Karana Archive for May, 2010
 
 * [EverQuest: A significant achievement](5092.md)

@@ -6,6 +6,7 @@
 import os
 from markdownify import markdownify
 import re
+from utils import filename
 
 postfolder = './posts'
 post_key = 'INSERT INTO `wp_posts` VALUES ('
@@ -59,6 +60,8 @@ class Post:
         postpath = os.path.join(postpath, str(self.ID) + ".md")
 
         with open(postpath, 'w', encoding="utf8") as f:
+            print("Back to: [West Karana](/posts/{}) > [{}](/posts/{}/{}) > [{}](./{})".format(
+                filename, self.post_year, self.post_year, filename, self.post_month, filename), file=f)
             print("# {}\n".format(self.post_title), file=f)
 
             if self.post_author_name:

@@ -1,3 +1,4 @@
+Back to: [West Karana](/posts/westkarana.md) > [2010](/posts/2010/westkarana.md)
 # West Karana Archive for November, 2010
 
 * [Is your teenager a Minecraft addict?](5795.md)

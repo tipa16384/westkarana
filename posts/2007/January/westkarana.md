@@ -1,3 +1,4 @@
+Back to: [West Karana](/posts/westkarana.md) > [2007](/posts/2007/westkarana.md)
 # West Karana Archive for January, 2007
 
 * [Reasons to be Cheerful, Part 4](447.md)

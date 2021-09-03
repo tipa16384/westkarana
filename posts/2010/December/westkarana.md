@@ -1,3 +1,4 @@
+Back to: [West Karana](/posts/westkarana.md) > [2010](/posts/2010/westkarana.md)
 # West Karana Archive for December, 2010
 
 * [Daily Blogroll, 12/1 -- Dress Like a Pirate Edition](5894.md)
