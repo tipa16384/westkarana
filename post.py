@@ -47,6 +47,7 @@ class Post:
         self.post_year = int(m.group(1)) if m else 0
         self.post_month = month_names[int(m.group(2))-1] if m else 'Octember'
         self.post_day = int(m.group(3)) if m else 0
+        self.comments = None
 
     def setPostAuthorUser(self, user_dict):
         if self.post_author and self.post_author in user_dict:
@@ -71,3 +72,9 @@ class Post:
             md = markdownify(self.post_content)
             md = md.replace('\\r', '').replace('\\n', '\n')
             print("{}".format(md), file=f)
+
+            if self.comments:
+                print("## Comments!", file=f)
+                for comment in self.comments:
+                    print ("---", file=f)
+                    print ("**{}** writes: {}".format(comment.comment_author, comment.comment_content), file=f)
