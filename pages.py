@@ -9,7 +9,7 @@ def create_year_page(by_year):
         print("# West Karana Archive by year\n", file=f)
         #print (by_year)
         sorted_years = [x for x in by_year.keys()]
-        sorted_years.sort()
+        sorted_years.sort(reverse=True)
         for year in sorted_years:
             print('* [{}](./{}/{}) ({})'.format(year,
                                                 year, filename, by_year[year]), file=f)
