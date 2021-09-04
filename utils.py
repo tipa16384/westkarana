@@ -41,4 +41,6 @@ def consume(l):
 
 
 def mangle(l):
+    l = l.replace('tipa@westkarana.com', 'brendahol@gmail.com')
+    l = l.replace('http://westkarana.com', 'https://chasingdings.com')
     return l.replace('\\r', '').replace('\\n\\n\\n\\n', '\n\n').replace('\\n', '\n')
