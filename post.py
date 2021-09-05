@@ -12,6 +12,10 @@ postfolder = './posts'
 post_key = 'INSERT INTO `wp_posts` VALUES ('
 post_columns = 'ID,post_author,post_date,post_date_gmt,post_content,post_title,post_category,post_excerpt,post_status,comment_status,ping_status,post_password,post_name,to_ping,pinged,post_modified,post_modified_gmt,post_content_filtered,post_parent,guid,menu_order,post_type,post_mime_type,comment_count'.split(
     ',')
+wk_post_key = 'INSERT INTO `wk_posts` VALUES('
+wk_post_columns = 'ID,post_author,post_date,post_date_gmt,post_content,post_title,post_excerpt,post_status,comment_status,ping_status,post_password,post_name,to_ping,pinged,post_modified,post_modified_gmt,post_content_filtered,post_parent,guid,menu_order,post_type,post_mime_type,comment_count'.split(
+    ',')
+
 month_names = ['January', 'February', 'March', 'April', 'May', 'June',
                'July', 'August', 'September', 'October', 'November', 'December']
 
@@ -24,7 +28,7 @@ class Post:
         self.post_date_gmt = row['post_date_gmt']
         self.post_content = row['post_content']
         self.post_title = row['post_title']
-        self.post_category = row['post_category']
+        self.post_category = row['post_category'] if 'post_category' in row else None
         self.post_excerpt = row['post_excerpt']
         self.post_status = row['post_status']
         self.comment_status = row['comment_status']
@@ -48,6 +52,7 @@ class Post:
         self.post_month = month_names[int(m.group(2))-1] if m else 'Octember'
         self.post_day = int(m.group(3)) if m else 0
         self.comments = None
+        self.category = None
 
     def setPostAuthorUser(self, user_dict):
         if self.post_author and self.post_author in user_dict:

@@ -12,6 +12,7 @@ Back to: [West Karana](/posts/westkarana.md) > [2009](/posts/2009/westkarana.md)
 * [Earth Eternal open beta opening early for closed beta testers](4317.md) <span style="color:red;">comment</span>
 * [Daily Blogroll 10/8: Inappropriate Birth Metaphor edition](4320.md) <span style="color:red;">comment</span>
 * [Daily Blogroll 10/10: Short Week edition](4324.md) <span style="color:red;"></span>
+* [Lemons Looks at Love](273.md) <span style="color:red;"></span>
 * [EVE Online: Spreadsheet Power](4328.md) <span style="color:red;">comment</span>
 * [Lemons looks at Love](4331.md) <span style="color:red;">comment</span>
 * [Wizard101: Straight outta Marleybone](4337.md) <span style="color:red;">comment</span>
